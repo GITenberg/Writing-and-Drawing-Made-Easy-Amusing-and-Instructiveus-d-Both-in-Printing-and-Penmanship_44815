@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '42931'
     url: http://www.gutenberg.org/2009/agents/42931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44815#Writing-and-Drawing-Made-Easy-Amusing-and-Instructiveus-d-Both-in-Printing-and-Penmanship
 gutenberg_issued: '2014-02-01'
 gutenberg_type: Text
 identifiers:
